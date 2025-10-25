@@ -1,1 +1,1 @@
-# Python
+An interactive Google Colab notebook introducing core concepts of data analysis and visualization. It demonstrates how to clean, explore, and visualize datasets using Python libraries such as Pandas, Matplotlib, and Seaborn — perfect for beginners learning data analytics in a hands-on way.
